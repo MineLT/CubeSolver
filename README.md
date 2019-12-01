@@ -1,0 +1,2 @@
+# CubeSolver
+Our CubeSolver project
