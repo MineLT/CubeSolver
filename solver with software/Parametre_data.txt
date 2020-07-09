@@ -1,0 +1,3 @@
+Vitesse_de_départ = 800
+Vitesse_Maximale = 320
+Accélération(en_pas) = 10
