@@ -3,7 +3,7 @@ Our CubeSolver project
 
 This is the code of our CubeSolver projet adapted in Python.
 
-*There is a wiki if you want explanations on our solving method.*
+###There is a wiki if you want explanations on our solving method.
 
 **Les explications en français sont en-dessous.**
 
