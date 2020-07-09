@@ -3,9 +3,9 @@ Our CubeSolver project
 
 This is the code of our CubeSolver projet adapted in Python.
 
-**Les explications en français sont en-dessous.**
+There is a wiki if you want explanations on our solving method.
 
-The explanation of our solving method is epxlained down below (after the french explanation).
+**Les explications en français sont en-dessous.**
 
 ## How to use it
 
