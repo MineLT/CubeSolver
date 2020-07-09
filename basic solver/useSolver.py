@@ -1,5 +1,4 @@
 import SolveBH
-import outils
 import ast
 
 cube = [0,0,0,0,0,0,0,0,0,
