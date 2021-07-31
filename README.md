@@ -57,10 +57,10 @@ You'll need to write this array for the solver to solve your cube, here is how t
   
   ```
   - **The order should be the order you red and wrote them before!**
-  - Then do this exact same process for the blue face still with the **yellow face up**.
-  - Then with the red face and **yellow face up**.
-  - Then with the green face and **yellow face up**.
+  - Then do this exact same process for the green face still with the **yellow face up**.
   - Then with the orange face and **yellow face up**.
+  - Then with the blue face and **yellow face up**.
+  - Then with the red face and **yellow face up**.
   - Then with the **white face and _blue face up_**.
   - You should now have the representation of the 6 faces, you just have to concatenate them and put them between '[ ]', it should look like this:
   ```
@@ -122,10 +122,10 @@ Vous allez avoir besoin de ce tableau pour que le programme puisse résoudre vot
   
   ```
   - **L'ordre doit être celui avec lequel vous avez lu et écrit les couleurs**.
-  - Ensuite, répétez ce procédé pour la face bleue, toujours avec la **face jaune au-dessus**.
-  - Ensuite pour la face rouge avc la **face jaune au-dessus**.
-  - Ensuite pour la face verte avec la **face jaune au-dessus**
-  - Ensuite pour la face orange avec la **face jaune au-dessus**
+  - Ensuite, répétez ce procédé pour la face verte, toujours avec la **face jaune au-dessus**.
+  - Ensuite pour la face orange avc la **face jaune au-dessus**.
+  - Ensuite pour la face bleue avec la **face jaune au-dessus**
+  - Ensuite pour la face rouge avec la **face jaune au-dessus**
   - Ensuite pour la **face blanche devant avec la _face bleue au-dessus_**.
   - Vous devriez maintenant avoir les représentations des 6 faces, vous devez juste les concaténer et les mettre entre '[ ]', cela devrait ressembler à cela :
   ```
